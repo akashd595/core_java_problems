@@ -1,4 +1,5 @@
 package com.core_java_problems;
+import java.util.Scanner;
 
 public class VowelChecking {
     public static void main(String[] args) {
